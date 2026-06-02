@@ -1,0 +1,3 @@
+[Tue Jun  2 22:07:02 +03 2026] Yedekleme islemi baslatildi...
+pg_dump: error: connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "food_roulette_db_YANLIS" does not exist
+[Tue Jun  2 22:07:02 +03 2026] HATA: Yedekleme sirasinda bir problem olustu!
